@@ -1,0 +1,93 @@
+- title: "[PREPRINT] High-throughput single molecule microscopy with adaptable spatial resolution using exchangeable oligonucleotide labels"
+  image:
+  description:
+  authors: Klarinda de Zwaan, Ran Huo, Myron N.F. Hensgens, Hannah Lena Wienecke, Miyase Tekpinar, Hylkje J. Geertsema, Kristin S. Grußmayer
+  link:
+    url: https://doi.org/10.1101/2024.10.30.621026
+    display: preprint
+  highlight: 0
+
+- title: "Unblending of Transcriptional Condensates in Human Repeat Expansion Disease"
+  image:
+  description:
+  authors: Shaon Basu, Sebastian D. Mackowiak, Henri Niskanen, Dora Knezevic, Vahid Asimi, Stefanie Grosswendt, Hylkje J. Geertsema, Salaheddine Ali, Ivana Jerković, Helge Ewers, Stefan Mundlos, Alexander Meissner, Daniel M. Ibrahmi, Denes Hnisz
+  link:
+    url: https://doi.org/10.1016/j.cell.2020.04.018
+    display: Cell, Volume 181, Issue 5, 1062-1079.e30
+  highlight: 0
+
+- title: "Left-handed DNA-PAINT for improved super-resolution imaging in the nucleus"
+  image: 41587_2020_753_Fig1_HTML_adapted.png
+  description: Natural DNA is right-handed — what happens if you use left-handed DNA instead? We show that L-DNA-PAINT preserves the same specificity and multiplexing capabilities as R-DNA-PAINT, while enhancing nuclear target imaging by significantly reducing background signal.
+  authors: Hylkje J. Geertsema, Giulia Aimola, Valentin Fabricius, Jens P. Fürste, Benedikt B. Kaufer, Helge Ewers
+  link:
+    url: https://doi.org/10.1038/s41587-020-00753-y
+    display: Nature Biotechnology 39, 551-554 (2021)
+  highlight: 1
+  # news1: See [News and Views](https://www.nature.com/articles/s41592-021-01071-0) by Rita Strack.
+  news2: See [News and Views](https://www.nature.com/articles/s41592-021-01071-0) by Rita Strack.
+
+- title: "Rapid and efficient C-terminal labeling of nanobodies for DNA-PAINT"
+  image:
+  description:
+  authors: Valentin Fabricius, Jonathan Lefèbre, Hylkje J. Geertsema, Stephen F. Marino, Helge Ewers
+  link:
+    url: https://doi.org/10.1088/1361-6463/aae0e2
+    display: J. Phys. D&#58; Appl. Phys. 51 474005 (2018)
+  highlight: 0
+  news2:
+
+- title: "Simultaneous Real-Time Imaging of Leading and Lagging Strand Synthesis Reveals the Coordination Dynamics of Single Replisomes"
+  image:
+  description:
+  authors: Karl E. Duderstadt, Hylkje J. Geertsema, Sarah A. Stratmann, Christiaan M. Punter, Arkadiusz W. Kulczyk, Charles C. Richardson, Antoine M. van Oijen
+  link:
+    url: https://doi.org/10.1016/j.molcel.2016.10.028
+    display: Molecular Cell, Volume 64, Issue 6, 1035 - 1047 (2016)
+  highlight: 0
+
+- title: "Single-Molecule Observation of Prokaryotic DNA Replication"
+  image:
+  description:
+  authors: Hylkje J. Geertsema, Karl E. Duderstadt, Antoine M. van Oijen
+  link:
+    url: https://doi.org/10.1007/978-1-4939-2596-4_14
+    display: Book chapter in Methods in Molecular Biology (2015)
+  highlight: 0
+
+- title: "Single-Molecule Imaging at High Fluorophore Concentrations by Local Activation of Dye"
+  image:
+  description:
+  authors: Hylkje J. Geertsema, Aartje C. Schulte, Lisanne M. Spenkelink, William J. McGrath, Seamus R. Morrone, Jungsan Sohn, Walter F. Mangel, Andrew Robinson, Antoine M. van Oijen
+  link:
+    url: https://doi.org/10.1016/j.bpj.2014.12.019
+    display: Biophysical Journal, Volume 108, Issue 4, 949 - 956 (2015)
+  highlight: 0
+
+- title: "Single-molecule studies of polymerase dynamics and stoichiometry at the bacteriophage T7 replication machinery"
+  image:
+  description:
+  authors: Hylkje J. Geertsema, Arkadiusz W. Kulczyk, Charles C. Richardson, Antoine M. van Oijen
+  link:
+    url: https://doi.org/10.1073/pnas.1402010111
+    display: Proceedings of the National Academy of Sciences, Volume 111, No. 11, 4073-4078 (2014)
+  highlight: 0
+
+- title: "A single-molecule view of DNA replication: the dynamic nature of multi-protein complexes revealed"
+  image:
+  description:
+  authors: Hylkje J. Geertsema, Antoine M. van Oijen
+  link:
+    url: https://doi.org/10.1016/j.sbi.2013.06.018
+    display: Current Opinion in Structural Biology, Volume 23, Issue 5, 788-793 (2013)
+  highlight: 0
+# - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+#   image: Pairs3.png
+#   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
+#   authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+#   link:
+#     url: https://www.science.org/doi/10.1126/science.abe3987
+#     display: Science 374, 608 (2021)
+#   highlight: 1
+#   news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
+#   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).

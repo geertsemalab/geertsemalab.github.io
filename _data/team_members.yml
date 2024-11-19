@@ -1,0 +1,34 @@
+- name: Hylkje Geertsema
+  photo: pic_hylkje_geertsema.jpg
+  role: Assistent professor
+  office: 22.F066
+  email: h.j.geertsema@
+  research:
+
+- name: Hannah van Lookeren Campagne
+  photo: pic_hannah_van_lookeren_campagne.png
+  role: Management assistant
+  office: 22.F094
+  email: h.vanlookerencampagne@
+  research:
+
+- name: Myron Hensgens
+  photo: pic_myron_hensgens.png
+  role: PhD student
+  office: 22.F080
+  email: m.n.f.hensgens@
+  research: 3D organization of the nuclear lamina with DNA-PAINT
+
+- name: Postdoc starting January 2025
+  photo: pic_blank_profile.png
+  role: Postdoc #(in collaboration with [Baarends Lab](https://www.erasmusmc.nl/en/research/researchers/baarends-willy))
+  office: TBD
+  email: TBD
+  research: TBD
+
+- name: PhD student starting January 2025
+  photo: pic_blank_profile.png
+  role: PhD student
+  office: TBD
+  email: TBD
+  research: Structure-function relationship of cytoskeletal proteins in mammalian cells
