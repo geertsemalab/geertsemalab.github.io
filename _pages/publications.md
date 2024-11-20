@@ -12,7 +12,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications). New papers will be avialable on [bioRxiv](https://www.biorxiv.org/search/author1%3AHylkje%2BGeertsema%20jcode%3Abiorxiv%20numresults%3A25%20sort%3Arelevance-rank%20format_result%3Astandard).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). New papers will be available on [bioRxiv](https://www.biorxiv.org/search/author1%3AHylkje%2BGeertsema%20jcode%3Abiorxiv%20numresults%3A25%20sort%3Arelevance-rank%20format_result%3Astandard).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
