@@ -1,20 +1,3 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-- name: Boyd Peters
-  photo: pic_boyd_peters.jpg
-  role: MEP student
-  office: 22.F062
-  email:
-  research:
-
 - name: Tjeu de Sauvage-Nolting
   photo: pic_blank_profile.png
   role: BEP student
