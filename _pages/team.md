@@ -60,7 +60,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" alt="{{ member.name }}'s photo"/>
 <h4>{{ member.name }}</h4>
-<b>{{ member.role }}</b><br><i>Office: {{ member.office }}<br>{% if member.email %}Email: {{ member.email }}<br>{% endif %}</i>{% if member.research %}Research: {{ member.research }}{% endif %}
+<b>{{ member.role }}</b><br><i>{% if member.office %}Office: {{ member.office }}{% endif %}<br>{% if member.email %}Email: {{ member.email }}<br>{% endif %}</i>{% if member.research %}Research: {{ member.research }}{% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
