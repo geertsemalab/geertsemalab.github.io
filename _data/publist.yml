@@ -1,11 +1,11 @@
-- title: "[PREPRINT] High-throughput single molecule microscopy with adaptable spatial resolution using exchangeable oligonucleotide labels"
-  image:
-  description:
+- title: "High-Throughput Single-Molecule Microscopy with Adaptable Spatial Resolution Using Exchangeable Oligonucleotide Labels"
+  image: images_large_nn4c18502_0005.jpeg
+  description: DNA-PAINT is a fantastic SMLM techniques, offering very high spatial resolution and multiplexing abilities. However, this promising technique is hampered by long imaging times. In this paper, we address this limitation by employing the temporal imaging technique SOFI, enabling faster imaging and screening to enhance the data throughput of super-resolution imaging. 
   authors: Klarinda de Zwaan, Ran Huo, Myron N.F. Hensgens, Hannah Lena Wienecke, Miyase Tekpinar, Hylkje J. Geertsema, Kristin S. Grußmayer
   link:
-    url: https://doi.org/10.1101/2024.10.30.621026
-    display: preprint
-  highlight: 0
+    url: https://doi.org/10.1021/acsnano.4c18502
+    display: ACS Nano (2025)
+  highlight: 1
 
 - title: "Unblending of Transcriptional Condensates in Human Repeat Expansion Disease"
   image:
